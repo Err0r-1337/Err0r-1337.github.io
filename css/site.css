@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
 body {
   background-color: #D5B4B4;
 }
@@ -98,7 +101,7 @@ div.div-bottom p {
 /* pagina 2 */
 
 div {
-  margin-bottom: 100%;
+  margin-bottom: 200px;
   padding-top: 100px;
 }
 
@@ -120,5 +123,17 @@ div {
 #gr-div4 {
   margin-top: 100px;
   padding: 0 40px;
-  justify-content: center;
+  position: relative;
+}
+#gr-div4 img {
+  float: left;
+}
+#gr-div4 p {
+  text-align: left;
+  margin-top: 20%;
+  margin-left: 500px;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
 }
