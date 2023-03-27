@@ -137,3 +137,14 @@ div {
   font-weight: 600;
   font-size: 20px;
 }
+#gr4-div5 h1{
+  text-align: center;
+}
+#gr4-div5 p{
+  padding: 0 30px;
+  font-weight: 600;
+  font-size: 15px;
+}
+#gr4-div5 {
+  height: 60%;
+}
